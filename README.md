@@ -10,7 +10,7 @@
 <details close> 
   <summary><h2>📘 My Recent Projects</h2></summary>
   <p align="left">
-    <a href="https://github.com/OnurAsimIlhan/mlflow_experiment_tracking"><img width="200" src="https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" alt="mlflow-experiment-tracking"></a>
+    <a href=""><img width="200" src="https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" alt="mlflow-experiment-tracking"></a>
   </p>
 
   <a href="https://github.com/OnurAsimIlhan?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
